@@ -13,7 +13,7 @@ footer: > # Text in footer in HTML
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto excepturi incidunt, odit modi quidem deserunt doloremque molestias saepe. Iste dolor non repellendus laudantium! Nihil velit mollitia voluptatem ullam libero.
+This page links to resources related to teaching web accessibility and advocating for web accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -29,8 +29,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod architecto except
 {::nomarkdown}
 {% include toc.html type="end" %}
 {:/}
-
-This page links to resources related to teaching web accessibility and advocating for web accessibility.
 
 ## Training Resources {#train}
 
