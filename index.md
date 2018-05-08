@@ -35,7 +35,7 @@ This page links to resources related to teaching web accessibility and advocatin
 [How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }})
 : Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
 
-[Developing Web Accessibility Presentations and Training]({{ "@@" | relative_url }})
+[Developing Web Accessibility Presentations and Training]({{ "/teach-advocate/accessibility-training/" | relative_url }})
 : Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers.
  
 [Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
