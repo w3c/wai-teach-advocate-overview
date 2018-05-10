@@ -40,6 +40,7 @@ This page links to resources related to teaching web accessibility and advocatin
  
 [Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
 : Shows an inaccessible website and a retrofitted version of the same website. Includes annotations that highlight key accessibility barriers and repairs, and evaluation reports for WCAG 2.0.
+{:.paragraph-like}
 
 ## Advocating Resources {#advocate}
 
@@ -48,3 +49,4 @@ This page links to resources related to teaching web accessibility and advocatin
 
 [Business Case for Web Accessibility]({{ "/business-case/" | relative_url }})
 : (This resource is being revised in 2018.)
+{:.paragraph-like}
