@@ -3,6 +3,7 @@ title: "Teach and Advocate Overview"
 permalink: /teach-advocate/
 github:
   repository: w3c/wai-teach-advocate-overview
+feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 27 April 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
