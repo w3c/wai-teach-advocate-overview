@@ -48,6 +48,6 @@ This page links to resources related to teaching web accessibility and advocatin
 [Contacting Organizations about Inaccessible Websites]({{ "/teach-advocate/contact-inaccessible-websites/" | relative_url }})
 : Encourages telling organizations about accessibility barriers on their website. Provides guidance on identifying key contacts, describing the problem, and following up as needed. Includes tips and sample e-mails.
 
-[Business Case for Web Accessibility]({{ "/business-case/" | relative_url }})
-: (This resource is being revised in 2018.)
+[The Business Case for Digital Accessibility]({{ "/business-case/" | relative_url }})
+: Examines the rationale for organizations to address accessibility. Includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. Explores how accessibility can drive innovation, enhance your brand, extend market reach, and minimize legal risk.
 {:.paragraph-like}
