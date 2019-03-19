@@ -1,6 +1,11 @@
 ---
 title: "Teach and Advocate Overview"
 permalink: /teach-advocate/
+ref: /teach-advocate/
+last_updated: 2018-04-27
+lang: en
+# translator: ""
+# contributors: ""
 github:
   repository: w3c/wai-teach-advocate-overview
 feedbackmail: wai@w3.org
