@@ -1,25 +1,30 @@
 ---
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
 title: "Teach and Advocate Overview"
-permalink: /teach-advocate/
-ref: /teach-advocate/
-last_updated: 2018-04-27
+nav_title: "Overview"
+
 lang: en
-# translator: ""
-# contributors: ""
+last_updated: 2018-04-27
+permalink: /teach-advocate/
+
 github:
   repository: w3c/wai-teach-advocate-overview
+  path: "index.md"
+
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 27 April 2018.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+ref: /teach-advocate/
 ---
 
 {::nomarkdown}
 {% include box.html type="start" title="Summary" class="" %}
 {:/}
 
-This page links to resources related to teaching web accessibility and advocating for web accessibility.
+Links to resources related to teaching web accessibility and advocating for web accessibility.
 
 {::nomarkdown}
 {% include box.html type="end" %}
@@ -38,10 +43,10 @@ This page links to resources related to teaching web accessibility and advocatin
 
 ## Training Resources {#train}
 
-[How to Make Your Presentations Accessible to All]({{ "/teach-advocate/accessible-presentations/" | relative_url }})
+[[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/)
 : Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
 
-[Developing Web Accessibility Presentations and Training]({{ "/teach-advocate/accessibility-training/" | relative_url }})
+[[Developing Web Accessibility Presentations and Training]](/teach-advocate/accessibility-training/)
 : Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers.
  
 [Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
@@ -50,9 +55,9 @@ This page links to resources related to teaching web accessibility and advocatin
 
 ## Advocating Resources {#advocate}
 
-[Contacting Organizations about Inaccessible Websites]({{ "/teach-advocate/contact-inaccessible-websites/" | relative_url }})
+[[Contacting Organizations about Inaccessible Websites]](/teach-advocate/contact-inaccessible-websites/)
 : Encourages telling organizations about accessibility barriers on their website. Provides guidance on identifying key contacts, describing the problem, and following up as needed. Includes tips and sample e-mails.
 
-[The Business Case for Digital Accessibility]({{ "/business-case/" | relative_url }})
+[[The Business Case for Digital Accessibility]](/business-case/)
 : Examines the rationale for organizations to address accessibility. Includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. Explores how accessibility can drive innovation, enhance your brand, extend market reach, and minimize legal risk.
 {:.paragraph-like}
