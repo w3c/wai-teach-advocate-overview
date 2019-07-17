@@ -1,37 +1,40 @@
 ---
 # Translation info https://www.w3.org/wiki/WAI/Website/Translate
 
-title: "Teach and Advocate Overview"
-nav_title: "Overview"
+title: "Introducción a la formación y al apoyo"
+nav_title: "Introducción"
 
-lang: en
-last_updated: 2018-04-27
-permalink: /teach-advocate/
+lang: es
+last_updated: 2019-07-17
+permalink: /teach-advocate/es
+translators: 
+- name: "Carlos Muncharaz"
+  link: "http://www.muncharaz.eu/"
 
 github:
   repository: w3c/wai-teach-advocate-overview
-  path: "index.md"
+  path: "index.es.md"
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 April 2018.</p>
-  <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-  <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
+  <p><strong>Fecha:</strong> Actualizado el 27 de april del 2018.</p>
+  <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /teach-advocate/
 ---
 
 {::nomarkdown}
-{% include box.html type="start" title="Summary" class="" %}
+{% include box.html type="start" title="Resumen" class="" %}
 {:/}
 
-Links to resources related to teaching web accessibility and advocating for web accessibility.
+Enlaces a recursos relacionados con la formación y el apoyo a la accesibilidad web.
 
 {::nomarkdown}
 {% include box.html type="end" %}
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Page Contents" %}
+{% include toc.html type="start" title="Índice de contenidos" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
