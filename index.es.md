@@ -41,23 +41,23 @@ Links to resources related to teaching web accessibility and advocating for web 
 {% include toc.html type="end" %}
 {:/}
 
-## Training Resources {#train}
+## Recursos formativos {#train}
 
-[[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/)
-: Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
+[[Cómo hacer presentaciones accesibles para todos]](/teach-advocate/accessible-presentations/)
+: Ayuda para hacer que las presentaciones, charlas, reuniones y formación sean accesibles para todos en su audiencia potencial, incluyendo a las personas con discapacidad y otros.
 
-[[Developing Web Accessibility Presentations and Training]](/teach-advocate/accessibility-training/)
-: Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers.
+[[Desarrollo de presentaciones y formación sobre accesibilidad web]](/teach-advocate/accessibility-training/)
+: Proporciona material para que presentadores, ponentes, educadores y otros ayuden a que sus participantes entiendan mejor qué es la accesibilidad web. La información de los materiales cubre un rango que va desde diapositivas introductorias para los que son nuevos en la accesibilidad web hasta estadísticas y demostraciones para formadores experimentados.
  
-[Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
-: Shows an inaccessible website and a retrofitted version of the same website. Includes annotations that highlight key accessibility barriers and repairs, and evaluation reports for WCAG 2.0.
+[Demostraciones del antes y del después (BAD)](https://www.w3.org/WAI/demos/bad/)
+: Muestra un sitio inaccesible y una versión nueva del mismo sitio. Se incluyen notas que resaltan cuáles son las principales barreras de accesibilidad y sus correcciones, así como informes de evaluación para WCAG 2.0.
 {:.paragraph-like}
 
-## Advocating Resources {#advocate}
+## Recursos de apoyo {#advocate}
 
-[[Contacting Organizations about Inaccessible Websites]](/teach-advocate/contact-inaccessible-websites/)
-: Encourages telling organizations about accessibility barriers on their website. Provides guidance on identifying key contacts, describing the problem, and following up as needed. Includes tips and sample e-mails.
+[[Contacto con organizaciones debido a un sitio web inaccesible]](/teach-advocate/contact-inaccessible-websites/)
+: Apoyo para informar a las organizaciones sobre barreras de accesibilidad en sus sitios web. Ofrece orientación para identificar contactos clave, describir el problema, y seguimiento según sea necesario. Incluye consejos y ejemplos de correos electrónicos.
 
-[[The Business Case for Digital Accessibility]](/business-case/)
-: Examines the rationale for organizations to address accessibility. Includes tangible and intangible benefits, and the risks of not addressing accessibility adequately. Explores how accessibility can drive innovation, enhance your brand, extend market reach, and minimize legal risk.
+[[El caso de negocio de la accesibilidad digital]](/business-case/)
+: Explora las razones por las que las organizaciones deberían abordar la accesibilidad. Incluye beneficios tangibles e intangibles, así como los riesgos de ni abordar la accesibilidad de forma adecuada. Explora cómo la accesibilidad puede dirigir la innovación, mejorar la marca, aumentar el alcance del mercado y minimizar el riesgo legal.
 {:.paragraph-like}
