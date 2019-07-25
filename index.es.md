@@ -34,7 +34,7 @@ Enlaces a recursos relacionados con la formación y el apoyo a la accesibilidad 
 {:/}
 
 {::nomarkdown}
-{% include toc.html type="start" title="Índice de contenidos" %}
+{% include toc.html type="start" title="Contenidos de la página" %}
 {:/}
 
 - This will be replaced by an automatically generated TOC when using Markdown formatting.
