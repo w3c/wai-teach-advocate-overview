@@ -15,7 +15,7 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 27 April 2018.</p>
+  <p><strong>Date:</strong> Updated 12 May 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /teach-advocate/
@@ -47,8 +47,11 @@ Links to resources related to teaching web accessibility and advocating for web 
 [[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/)
 : Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
 
+[[Curricula on Web Accessibility: A Framework to Build Your Own Courses](/curricula/)
+: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge. The curriculum "Introduction to Web Accessibility" is currently available. Additional curriculum will be available in 2020 and 2021.
+
 [[Developing Web Accessibility Presentations and Training]](/teach-advocate/accessibility-training/)
-: Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers.
+: Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers. (Note: This content is mostly from 2013. The [Curricula](/curricula/) links to more recent resources.]
  
 [Before and After Demonstration (BAD)](https://www.w3.org/WAI/demos/bad/)
 : Shows an inaccessible website and a retrofitted version of the same website. Includes annotations that highlight key accessibility barriers and repairs, and evaluation reports for WCAG 2.0.
