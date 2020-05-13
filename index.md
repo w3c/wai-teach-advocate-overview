@@ -47,7 +47,7 @@ Links to resources related to teaching web accessibility and advocating for web 
 [[How to Make Your Presentations Accessible to All]](/teach-advocate/accessible-presentations/)
 : Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
 
-[[Curricula on Web Accessibility: A Framework to Build Your Own Courses](/curricula/)
+[[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
 : Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge. The curriculum "Introduction to Web Accessibility" is currently available. Additional curriculum will be available in 2020 and 2021.
 
 [[Developing Web Accessibility Presentations and Training]](/teach-advocate/accessibility-training/)
