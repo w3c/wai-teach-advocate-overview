@@ -13,7 +13,6 @@ github:
   path: "index.md"
 
 feedbackmail: wai@w3.org
-class: tight-page
 footer: > # Text in footer in HTML
   <p><strong>Date:</strong> Updated 12 May 2020.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
