@@ -8,7 +8,7 @@ lang: fr
 last_updated: 2021-03-19
 permalink: /teach-advocate/fr
 
-translator:
+translators:
 - name: "Sofia Ahmed"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
