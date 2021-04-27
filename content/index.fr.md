@@ -10,13 +10,13 @@ permalink: /teach-advocate/fr
 
 translators:
 - name: "Sofia Ahmed"
+- name: "Rémi Bétin"
 contributors:
 - name: "Sandra Velarde Gonzalez (ETNIC)"
-- name: "Rémi Bétin"
 
 github:
   repository: w3c/wai-teach-advocate-overview
-  path: "index.fr.md"
+  path: "content/index.fr.md"
 
 feedbackmail: wai@w3.org
 class: tight-page
