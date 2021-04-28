@@ -13,7 +13,7 @@ translators:
 
 github:
   repository: w3c/wai-teach-advocate-overview
-  path: "index.es.md"
+  path: "content/index.es.md"
 
 feedbackmail: wai@w3.org
 footer: > # Text in footer in HTML

@@ -10,7 +10,7 @@ permalink: /teach-advocate/
 
 github:
   repository: w3c/wai-teach-advocate-overview
-  path: "index.md"
+  path: "content/index.md"
 
 feedbackmail: wai@w3.org
 class: tight-page
