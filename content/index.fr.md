@@ -58,7 +58,7 @@ Liens vers des ressources liées à l'enseignement et à la promotion de l'acces
 [[Créer des présentations et des formations sur l'accessibilité Web]](/teach-advocate/accessibility-training/)
 : Fournit des contenus pour les orateurs, les conférenciers, les professeurs et les autres présentateurs pour aider leur public à mieux comprendre l'accessibilité Web. Les contenus incluent un éventail d'informations allant des diapositives introductives pour les débutants dans l'accessibilité Web, aux statistiques et aux démos pour les formateurs expérimentés. (À noter : la majorité de ce contenu date de 2013. La page [Programmes d'enseignement](/curricula/) renvoie à des ressources plus récentes.)
 
-[Démonstration : avant, après (en anglais)](https://www.w3.org/WAI/demos/bad/)
+[Démonstration : avant, après](/demos/bad/)
 : Montre un site Web non-accessible et une version améliorée de ce dernier. Inclut des annotations qui soulignent les principaux freins à l'accessibilité et les améliorations apportées, ainsi que les rapports d'évaluation pour le WCAG 2.0.
 {:.paragraph-like}
 
