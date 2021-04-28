@@ -52,7 +52,7 @@ Enlaces a recursos relacionados con la formación y el apoyo a la accesibilidad 
 [[Desarrollo de presentaciones y formación sobre accesibilidad web]](/teach-advocate/accessibility-training/)
 : Proporciona material para que presentadores, ponentes, educadores y otros ayuden a que sus participantes entiendan mejor qué es la accesibilidad web. La información de los materiales cubre un rango que va desde diapositivas introductorias para los que son nuevos en la accesibilidad web hasta estadísticas y demostraciones para formadores experimentados.
  
-[Demostraciones del antes y del después (BAD)](https://www.w3.org/WAI/demos/bad/)
+[Demostraciones del antes y del después (BAD)](/demos/bad/)
 : Muestra un sitio inaccesible y una versión nueva del mismo sitio. Se incluyen notas que resaltan cuáles son las principales barreras de accesibilidad y sus correcciones, así como informes de evaluación para WCAG 2.0.
 {:.paragraph-like}
 
