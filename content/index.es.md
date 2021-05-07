@@ -14,14 +14,16 @@ translators:
 github:
   repository: w3c/wai-teach-advocate-overview
   path: "content/index.es.md"
+  
+ref: /teach-advocate/    # Translators, do not change this
+changelog: /teach-advocate/changelog/
 
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Fecha:</strong> Actualizado el 07 de mayo del 2021.</p>
+  <p><strong>Fecha:</strong> Actualizado el 07 de mayo del 2021. CHANGELOG.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /teach-advocate/
 ---
 
 {::nomarkdown}
