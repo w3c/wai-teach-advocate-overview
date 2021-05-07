@@ -12,13 +12,22 @@ github:
   repository: w3c/wai-teach-advocate-overview
   path: "content/index.md"
 
+ref: /teach-advocate/    # Translators, do not change this
+changelog: /teach-advocate/changelog/
+
 feedbackmail: wai@w3.org
 class: tight-page
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 7 May 2021.</p>
+  <p><strong>Date:</strong> Updated 7 May 2021. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /teach-advocate/
+
 ---
 
 {::nomarkdown}
