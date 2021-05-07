@@ -17,14 +17,16 @@ contributors:
 github:
   repository: w3c/wai-teach-advocate-overview
   path: "content/index.fr.md"
-
+  
+ref: /teach-advocate/    # Translators, do not change this
+changelog: /teach-advocate/changelog/
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour : 07 mai 2021.</p>
+  <p><strong>Date :</strong> Mise à jour : 07 mai 2021. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé avec les contributions du <em>groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /teach-advocate/
+
 ---
 
 {::nomarkdown}
