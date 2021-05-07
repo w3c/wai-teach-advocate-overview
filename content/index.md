@@ -5,20 +5,29 @@ title: "Teach and Advocate Overview"
 nav_title: "Overview"
 
 lang: en
-last_updated: 2020-05-12
+last_updated: 2021-05-07
 permalink: /teach-advocate/
 
 github:
   repository: w3c/wai-teach-advocate-overview
   path: "content/index.md"
 
+ref: /teach-advocate/    # Translators, do not change this
+changelog: /teach-advocate/changelog/
+
 feedbackmail: wai@w3.org
 class: tight-page
+
+# In the footer below:
+# Do not translate or change CHANGELOG or ACKNOWLEDGEMENTS.
+# Translate the other words below, including "Date:" and "Editor:"
+# Translate the Working Group name. Leave the Working Group acronym in English.
+# Do not change the dates in the footer below.
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 12 May 2020.</p>
+  <p><strong>Date:</strong> Updated 7 May 2021. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /teach-advocate/
+
 ---
 
 {::nomarkdown}
@@ -48,7 +57,7 @@ Links to resources related to teaching web accessibility and advocating for web 
 : Helps you make presentations, talks, meetings, and training accessible to all of your potential audience, including people with disabilities and others.
 
 [[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
-: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge. The curriculum "Introduction to Web Accessibility" is currently available. Additional curriculum will be available in 2020 and 2021.
+: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
 
 [[Developing Web Accessibility Presentations and Training]](/teach-advocate/accessibility-training/)
 : Provides materials for speakers, lecturers, educators and other presenters to help their participants understand more about web accessibility. The materials provide a range of information from introductory slides for those new to accessibility, to statistics and demos for experienced trainers. (Note: This content is mostly from 2013. The [Curricula](/curricula/) links to more recent resources.)

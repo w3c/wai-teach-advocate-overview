@@ -5,7 +5,7 @@ title: "Former et promouvoir - Vue d'ensemble"
 nav_title: "Vue d'ensemble"
 
 lang: fr
-last_updated: 2021-03-19
+last_updated: 2021-05-07
 permalink: /teach-advocate/fr
 
 translators:
@@ -17,14 +17,16 @@ contributors:
 github:
   repository: w3c/wai-teach-advocate-overview
   path: "content/index.fr.md"
-
+  
+ref: /teach-advocate/    # Translators, do not change this
+changelog: /teach-advocate/changelog/
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date :</strong> Mise à jour : 12 mai 2020.</p>
+  <p><strong>Date :</strong> Mise à jour : 07 mai 2021. CHANGELOG.</p>
   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Développé avec les contributions du <em>groupe de travail Éducation et Promotion</em> (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
-ref: /teach-advocate/
+
 ---
 
 {::nomarkdown}
@@ -53,7 +55,7 @@ Liens vers des ressources liées à l'enseignement et à la promotion de l'acces
 : Vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à l'ensemble de votre public potentiel, y compris les personnes en situation de handicap, entre autres.
 
 [[Programmes d'enseignement sur l'accessibilité Web : une structure pour créer vos propres cours]](/curricula/)
-: Fournit des programmes d'enseignement pour vous aider à créer des cours sur l'accessibilité Web pour différents rôles. Ils définissent les objectifs de l'apprentissage et fournissent des idées pour enseigner et évaluer les connaissances. Le programme "Introduction à l'accessibilité Web" est actuellement disponible. Des programmes supplémentaires seront disponibles en 2020 et en 2021.
+: Fournit des programmes d'enseignement pour vous aider à créer des cours sur l'accessibilité Web pour différents rôles. Ils définissent les objectifs de l'apprentissage et fournissent des idées pour enseigner et évaluer les connaissances.
 
 [[Créer des présentations et des formations sur l'accessibilité Web]](/teach-advocate/accessibility-training/)
 : Fournit des contenus pour les orateurs, les conférenciers, les professeurs et les autres présentateurs pour aider leur public à mieux comprendre l'accessibilité Web. Les contenus incluent un éventail d'informations allant des diapositives introductives pour les débutants dans l'accessibilité Web, aux statistiques et aux démos pour les formateurs expérimentés. (À noter : la majorité de ce contenu date de 2013. La page [Programmes d'enseignement](/curricula/) renvoie à des ressources plus récentes.)
