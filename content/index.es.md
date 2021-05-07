@@ -16,8 +16,9 @@ github:
   path: "content/index.es.md"
 
 feedbackmail: wai@w3.org
+class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Fecha:</strong> Actualizado el 27 de april del 2018.</p>
+  <p><strong>Fecha:</strong> Actualizado el 07 de mayo del 2021.</p>
   <p><strong>Editora:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Desarrollado con la colaboración del Grupo de Trabajo de Educación y Difusión (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /teach-advocate/
@@ -48,6 +49,9 @@ Enlaces a recursos relacionados con la formación y el apoyo a la accesibilidad 
 
 [[Cómo hacer presentaciones accesibles para todos]](/teach-advocate/accessible-presentations/)
 : Ayuda para hacer que las presentaciones, charlas, reuniones y formación sean accesibles para todos en su audiencia potencial, incluyendo a las personas con discapacidad y otros.
+
+[[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
+: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
 
 [[Desarrollo de presentaciones y formación sobre accesibilidad web]](/teach-advocate/accessibility-training/)
 : Proporciona material para que presentadores, ponentes, educadores y otros ayuden a que sus participantes entiendan mejor qué es la accesibilidad web. La información de los materiales cubre un rango que va desde diapositivas introductorias para los que son nuevos en la accesibilidad web hasta estadísticas y demostraciones para formadores experimentados.
