@@ -5,7 +5,7 @@ title: "Teach and Advocate Overview"
 nav_title: "Overview"
 
 lang: en
-last_updated: 2020-05-12
+last_updated: 2021-05-07
 permalink: /teach-advocate/
 
 github:
@@ -15,7 +15,7 @@ github:
 feedbackmail: wai@w3.org
 class: tight-page
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 12 May 2020.</p>
+  <p><strong>Date:</strong> Updated 7 May 2021.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 ref: /teach-advocate/
