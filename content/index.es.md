@@ -5,7 +5,7 @@ title: "Introducción a la formación y al apoyo"
 nav_title: "Introducción"
 
 lang: es
-last_updated: 2019-07-17
+last_updated: 2021-05-14
 permalink: /teach-advocate/es
 translators: 
 - name: "Carlos Muncharaz"
@@ -52,8 +52,8 @@ Enlaces a recursos relacionados con la formación y el apoyo a la accesibilidad 
 [[Cómo hacer presentaciones accesibles para todos]](/teach-advocate/accessible-presentations/)
 : Ayuda para hacer que las presentaciones, charlas, reuniones y formación sean accesibles para todos en su audiencia potencial, incluyendo a las personas con discapacidad y otros.
 
-[[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
-: Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
+[[Currículo en accesibilidad web: un marco para construir tus propios cursos]](/curricula/)
+: Proporciona planes de estudio para ayudarte a crear cursos de accesibilidad web destinados a diferentes perfiles. Define los resultados del aprendizaje y ofrece ideas para enseñar y evaluar el conocimiento.
 
 [[Desarrollo de presentaciones y formación sobre accesibilidad web]](/teach-advocate/accessibility-training/)
 : Proporciona material para que presentadores, ponentes, educadores y otros ayuden a que sus participantes entiendan mejor qué es la accesibilidad web. La información de los materiales cubre un rango que va desde diapositivas introductorias para los que son nuevos en la accesibilidad web hasta estadísticas y demostraciones para formadores experimentados.
