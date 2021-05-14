@@ -64,7 +64,7 @@ Liens vers des ressources liées à l'enseignement et à la promotion de l'acces
 
 ## Ressources pour promouvoir l'accessibilité Web{#advocate}
 
-[[Contacter des organisations à propos de sites Web non-accessibles]](/teach-advocate/contact-inaccessible-websites/)
+[[Contacter des organisations concernant des sites Web non-accessibles]](/teach-advocate/contact-inaccessible-websites/)
 : Encourage à informer les organisations des freins à l'accessibilité sur leur site Web. Fournit des conseils pour identifier les contacts clés, décrire le problème et donner suite si nécessaire. Inclut des astuces et des exemples de courriels.
 
 [[L'analyse de rentabilité de l'accessibilité numérique]](/business-case/)
