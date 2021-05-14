@@ -49,7 +49,7 @@ Liens vers des ressources liées à l'enseignement et à la promotion de l'acces
 
 ## Ressources d'enseignement {#train}
 
-[[Comment rendre vos présentations accessibles à tous]](/teach-advocate/accessible-presentations/)
+[[Comment rendre vos présentations accessibles à tout le monde]](/teach-advocate/accessible-presentations/)
 : Vous aide à rendre vos présentations, vos conférences, vos réunions, et vos formations accessibles à l'ensemble de votre public potentiel, y compris les personnes en situation de handicap, entre autres.
 
 [[Programmes d'enseignement sur l'accessibilité Web : une structure pour créer vos propres cours]](/curricula/)
@@ -62,7 +62,7 @@ Liens vers des ressources liées à l'enseignement et à la promotion de l'acces
 : Montre un site Web non-accessible et une version améliorée de ce dernier. Inclut des annotations qui soulignent les principaux freins à l'accessibilité et les améliorations apportées, ainsi que les rapports d'évaluation pour le WCAG 2.0.
 {:.paragraph-like}
 
-## Ressources pour promouvoir l'accessibilité {#advocate}
+## Ressources pour promouvoir l'accessibilité Web{#advocate}
 
 [[Contacter des organisations à propos de sites Web non-accessibles]](/teach-advocate/contact-inaccessible-websites/)
 : Encourage à informer les organisations des freins à l'accessibilité sur leur site Web. Fournit des conseils pour identifier les contacts clés, décrire le problème et donner suite si nécessaire. Inclut des astuces et des exemples de courriels.
