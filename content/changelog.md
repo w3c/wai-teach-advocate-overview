@@ -14,6 +14,10 @@ github:
 feedbackmail: wai@w3.org
 ---
 
+## July 2022
+
+* Updated title "How to Make Your Presentations and Meetings Accessible to All" and the description.
+
 ## May 2021
 
 * Updated Curricula bullet text in English version and in French translation. Added text in English to the Spanish translation.
