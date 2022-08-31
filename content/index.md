@@ -5,7 +5,7 @@ title: "Teach and Advocate Overview"
 nav_title: "Overview"
 
 lang: en
-last_updated: 2022-07-21
+last_updated: 2022-08-31
 permalink: /teach-advocate/
 
 github:
@@ -24,7 +24,7 @@ class: tight-page
 # Translate the Working Group name. Leave the Working Group acronym in English.
 # Do not change the dates in the footer below.
 footer: > # Text in footer in HTML
-  <p><strong>Date:</strong> Updated 21 July 2022. CHANGELOG.</p>
+  <p><strong>Date:</strong> Updated 31 August 2022. CHANGELOG.</p>
   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Developed with input from the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>).</p>
 
@@ -53,8 +53,8 @@ Links to resources related to teaching web accessibility and advocating for web 
 
 ## Training Resources {#train}
 
-[[How to Make Your Presentations and Meetings Accessible to All]](/teach-advocate/accessible-presentations/)
-: This page helps you make your presentations, meetings, conferences, and training more accessible to everyone, including people with disabilities and others. It provides details on in-person events and overlapping issues with remote events.
+[[Making Events Accessible: Checklist for meetings, conferences, training, and presentations that are remote/virtual, in-person, or hybrid]](/teach-advocate/accessible-presentations/)
+: Guides presenters, organizers, and participants in making events inclusive, particularly to people with disabilities. This benefits everyone, particularly international participants.
 
 [[Curricula on Web Accessibility: A Framework to Build Your Own Courses]](/curricula/)
 : Provides curricula to help you create courses on web accessibility for different roles. It defines learning outcomes, and provides ideas to teach and assess knowledge.
