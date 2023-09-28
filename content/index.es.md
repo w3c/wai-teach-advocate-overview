@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Introducción a la formación y al apoyo"
 nav_title: "Introducción"
 
