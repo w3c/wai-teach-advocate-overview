@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: "Former et promouvoir – Vue d’ensemble"
 nav_title: "Vue d'ensemble"
 
